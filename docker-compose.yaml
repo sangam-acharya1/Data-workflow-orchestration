@@ -69,7 +69,7 @@ services:
           server:
             basicAuth:
               username: "yuvrajacharya9816@gmail.com" 
-              password: Yuvraj1687$
+              password: ********
           repository:
             type: postgres
           storage:

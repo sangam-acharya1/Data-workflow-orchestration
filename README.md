@@ -171,6 +171,32 @@ The workflow is automatically triggered monthly using cron schedules.
 - Scheduled Pipelines
 - Production-style Data Engineering
 
+# 📸 Screenshots
+
+## Kestra Execution
+![Kestra Execution](screenshots/kestra-execution.png)
+
+---
+
+## PostgreSQL / pgAdmin
+![pgAdmin](screenshots/pgadmin.png)
+
+---
+
+## Docker Compose Running (Terminal/Bash)
+![Docker Compose](screenshots/docker-compose-bash.png)
+
+---
+
+## Conditional Logic - Green Taxi
+![Green Taxi Logic](screenshots/if-green.png)
+
+---
+
+## Conditional Logic - Yellow Taxi
+![Yellow Taxi Logic](screenshots/if-yellow.png)
+ 
+
 # Dataset Source
 
 NYC Taxi Trip Data:
