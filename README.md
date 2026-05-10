@@ -171,12 +171,6 @@ The workflow is automatically triggered monthly using cron schedules.
 - Scheduled Pipelines
 - Production-style Data Engineering
 
-# 📸 Screenshots
-
-```markdown
-![Execution](screenshots/screenshots/Screenshot 2026-05-10 090443.png)
-```
-
 # Dataset Source
 
 NYC Taxi Trip Data:
